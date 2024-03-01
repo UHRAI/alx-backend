@@ -332,7 +332,7 @@ Nb items: 19417
 {'index': 5, 'data': [['2016', 'FEMALE', 'ASIAN AND PACIFIC ISLANDER', 'Mia', '79', '5'], ['2016', 'FEMALE', 'ASIAN AND PACIFIC ISLANDER', 'Charlotte', '59', '6']], 'page_size': 2, 'next_index': 7}
 bob@dylan:~$ 
 ```
-
+ 
 **Repo:**
  
 - GitHub repository: alx-backend
