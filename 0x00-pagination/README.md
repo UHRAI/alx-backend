@@ -27,7 +27,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 use this data file for your project(https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2020/5/7d3576d97e7560ae85135cc214ffe2b3412c51d7.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240301%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240301T162205Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=eb736ba8b85a375a371e59bca5b87b2365202f91da7d639a9903472d20ef1286)
 
 # Tasks
-0. Simple helper function
+0. **Simple helper function**
 `mandatory`
 
 Write a function named `index_range` that takes two integer arguments `page` and `page_size`.
