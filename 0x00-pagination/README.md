@@ -335,7 +335,7 @@ bob@dylan:~$
 
 **Repo:**
  
-GitHub repository: alx-backend
-Directory: 0x00-pagination
-File: 3-hypermedia_del_pagination.py
+- GitHub repository: alx-backend
+- Directory: 0x00-pagination
+- File: 3-hypermedia_del_pagination.py
   
