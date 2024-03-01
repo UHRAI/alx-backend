@@ -65,7 +65,7 @@ bob@dylan:~$
 - Directory: 0x00-pagination
 - File: 0-simple_helper_function.py
   
-1. Simple pagination
+1. **Simple pagination**
 `mandatory`
 
 Copy `index_range` from the previous task and the following class into your code
