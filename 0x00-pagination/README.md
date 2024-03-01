@@ -217,7 +217,7 @@ bob@dylan:~$
 - Directory: 0x00-pagination
 - File: 2-hypermedia_pagination.py
   
-3. Deletion-resilient hypermedia pagination
+3. **Deletion-resilient hypermedia pagination**
 `mandatory`
 
 The goal here is that if between two queries, certain rows are removed from the dataset, the user does not miss items from dataset when changing page.
