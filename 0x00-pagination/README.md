@@ -165,7 +165,7 @@ bob@dylan:~$
 - Directory: 0x00-pagination
 - File: 1-simple_pagination.py
   
-2. Hypermedia pagination
+2. **Hypermedia pagination**
 `mandatory`
 
 Replicate code from the previous task.
