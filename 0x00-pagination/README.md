@@ -1,6 +1,6 @@
 # `0x00. Pagination`
 `Back-end`
- 
+
 # Resources
 ## Read or watch:
 
