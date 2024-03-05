@@ -506,11 +506,12 @@ guillaume@ubuntu:~/0x01$
 Repo:
 
 - GitHub repository: alx-backend
-Directory: 0x01-caching
-File: 4-mru_cache.py
+- Directory: 0x01-caching
+- File: 4-mru_cache.py
 
 5. LFU Caching
-#advanced
+`#advanced`
+
 Create a class LFUCache that inherits from BaseCaching and is a caching system:
 
 You must use self.cache_data - dictionary from the parent class BaseCaching
