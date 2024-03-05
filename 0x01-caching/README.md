@@ -277,12 +277,13 @@ guillaume@ubuntu:~/0x01$
 ```
 Repo:
 
-GitHub repository: alx-backend
-Directory: 0x01-caching
-File: 2-lifo_cache.py
+- GitHub repository: alx-backend
+- Directory: 0x01-caching
+- File: 2-lifo_cache.py
   
 3. LRU Caching
-mandatory
+`mandatory`
+
 Create a class LRUCache that inherits from BaseCaching and is a caching system:
 
 You must use self.cache_data - dictionary from the parent class BaseCaching
