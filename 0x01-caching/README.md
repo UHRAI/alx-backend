@@ -204,8 +204,8 @@ guillaume@ubuntu:~/0x01$
 Repo:
 
 - GitHub repository: alx-backend
-Directory: 0x01-caching
-File: 1-fifo_cache.py
+- Directory: 0x01-caching
+- File: 1-fifo_cache.py
   
 2. LIFO Caching
 mandatory
