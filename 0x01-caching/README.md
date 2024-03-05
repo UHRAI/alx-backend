@@ -633,7 +633,7 @@ M: M
 guillaume@ubuntu:~/0x01$ 
 Repo:
 
-GitHub repository: alx-backend
-Directory: 0x01-caching
-File: 100-lfu_cache.py
+- GitHub repository: alx-backend
+- Directory: 0x01-caching
+- File: 100-lfu_cache.py
     
