@@ -21,9 +21,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - What LIFO means
 - What LRU means
 - What MRU means
-What LFU means
-What the purpose of a caching system
-What limits a caching system have
+- What LFU means
+- What the purpose of a caching system
+- What limits a caching system have
 # Requirements
 Python Scripts
 All your files will be interpreted/compiled on Ubuntu 18.04 LTS using python3 (version 3.7)
