@@ -40,7 +40,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 ## More Info
 Parent class BaseCaching
 All your classes must inherit from BaseCaching defined below:
-
+```
 $ cat base_caching.py
 #!/usr/bin/python3
 """ BaseCaching module
@@ -74,6 +74,7 @@ class BaseCaching():
         """ Get an item by key
         """
         raise NotImplementedError("get must be implemented in your cache class")
+```
 Tasks
 0. Basic dictionary
 mandatory
