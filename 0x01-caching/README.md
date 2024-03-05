@@ -391,9 +391,9 @@ guillaume@ubuntu:~/0x01$
 ```
 Repo:
 
-GitHub repository: alx-backend
-Directory: 0x01-caching
-File: 3-lru_cache.py
+- GitHub repository: alx-backend
+- Directory: 0x01-caching
+- File: 3-lru_cache.py
   
 4. MRU Caching
 mandatory
