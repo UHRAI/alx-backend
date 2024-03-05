@@ -137,9 +137,9 @@ guillaume@ubuntu:~/0x01$
 ```
 Repo:
 
-GitHub repository: alx-backend
-Directory: 0x01-caching
-File: 0-basic_cache.py
+- GitHub repository: alx-backend
+- Directory: 0x01-caching
+- File: 0-basic_cache.py
   
 1. FIFO caching
 mandatory
