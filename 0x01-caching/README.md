@@ -1,11 +1,11 @@
 # `0x01. Caching`
 `Back-end`
 
-Background Context
+# Background Context
 In this project, you learn different caching algorithms.
 
-Resources
-Read or watch:
+# Resources
+## Read or watch:
 
 Cache replacement policies - FIFO
 Cache replacement policies - LIFO
