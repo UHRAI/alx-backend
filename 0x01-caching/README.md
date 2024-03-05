@@ -75,9 +75,9 @@ class BaseCaching():
         """
         raise NotImplementedError("get must be implemented in your cache class")
 ```
-Tasks
+# Tasks
 0. Basic dictionary
-mandatory
+`mandatory`
 Create a class BasicCache that inherits from BaseCaching and is a caching system:
 
 You must use self.cache_data - dictionary from the parent class BaseCaching
