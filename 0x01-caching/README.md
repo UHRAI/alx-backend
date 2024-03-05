@@ -554,7 +554,7 @@ my_cache.put("L", "L")
 my_cache.print_cache()
 my_cache.put("M", "M")
 my_cache.print_cache()
-
+```
 guillaume@ubuntu:~/0x01$ ./100-main.py
 Current cache:
 A: Hello
@@ -631,6 +631,7 @@ H: H
 I: I
 M: M
 guillaume@ubuntu:~/0x01$ 
+```
 Repo:
 
 - GitHub repository: alx-backend
