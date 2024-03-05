@@ -1,10 +1,6 @@
 0x01. Caching
 Back-end
- By: Guillaume, CTO at Holberton School
- Weight: 1
- Project will start Mar 5, 2024 4:00 AM, must end by Mar 7, 2024 4:00 AM
- Checker will be released at Mar 5, 2024 4:00 PM
- An auto review will be launched at the deadline
+
 Background Context
 In this project, you learn different caching algorithms.
 
