@@ -396,7 +396,8 @@ Repo:
 - File: 3-lru_cache.py
   
 4. MRU Caching
-mandatory
+`mandatory`
+
 Create a class MRUCache that inherits from BaseCaching and is a caching system:
 
 You must use self.cache_data - dictionary from the parent class BaseCaching
@@ -410,6 +411,7 @@ you must print DISCARD: with the key discarded and following by a new line
 def get(self, key):
 Must return the value in self.cache_data linked to key.
 If key is None or if the key doesn’t exist in self.cache_data, return None.
+```
 guillaume@ubuntu:~/0x01$ cat 4-main.py
 #!/usr/bin/python3
 """ 4-main """
@@ -500,9 +502,10 @@ D: School
 E: Battery
 K: K
 guillaume@ubuntu:~/0x01$ 
+```
 Repo:
 
-GitHub repository: alx-backend
+- GitHub repository: alx-backend
 Directory: 0x01-caching
 File: 4-mru_cache.py
 
